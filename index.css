@@ -182,3 +182,27 @@ table,
     top: 200px;
     left: 450px;
 }
+.button1:hover { 
+    flex-basis: 50%;
+    background: #ffffff;
+    transition: background-color 1s ease-in-out 1ms;
+    display: inline-block;
+}
+.button2:hover {
+    flex-basis: 50%;
+    background: #ffffff;
+    transition: background-color 1s ease-in-out 1ms;
+    display: inline-block;
+}
+.button3:hover {
+    flex-basis: 50%;
+    background: #ffffff;
+    transition: background-color 1s ease-in-out 1ms;
+    display: inline-block;
+}
+.button4:hover {
+    flex-basis: 50%;
+    background: #ffffff;
+    transition: background-color 1s ease-in-out 1ms;
+    display: inline-block;
+}
